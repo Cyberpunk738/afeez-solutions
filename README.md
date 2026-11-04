@@ -21,7 +21,7 @@ The five project URLs were supplied by the portfolio owner. Screenshots show the
 
 ## Hosting
 
-The tracked `.openai/hosting.json` belongs to the existing Sites deployment. For another host, publish `dist/` as the output folder. The included `vercel.json` supports static deployment on Vercel. Setting a custom domain requires DNS configuration at the domain's DNS provider; DNS setup does not create an email mailbox.
+The Sites hosting configuration is maintained separately from the portable GitHub source. For another host, publish `dist/` as the output folder. The included `vercel.json` supports static deployment on Vercel. Setting a custom domain requires DNS configuration at the domain's DNS provider; DNS setup does not create an email mailbox.
 
 ## GitHub
 
