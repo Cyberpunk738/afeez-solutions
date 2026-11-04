@@ -28,3 +28,7 @@ The Sites hosting configuration is maintained separately from the portable GitHu
 GitHub repository: https://github.com/Cyberpunk738/afeez-solutions
 
 The production preview is hosted through Sites. GitHub stores the portable website source; changes pushed to GitHub do not automatically update the Sites preview.
+
+## Visual design
+
+The interface uses a forest-green (`#204b38`) and lime (`#c2f52b`) visual system, responsive split-photo hero, rounded cards, accessible project filters and project notes. Website screenshots remain in colour in the project gallery. The hero photo is generated editorial imagery depicting a design discussion; it is not a photograph of Afeez or a claimed company team.
